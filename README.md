@@ -130,7 +130,7 @@ Semantic_Search_Engine/
 Clone the repository:
 
 ```bash
-git clone https://github.com/sidda_19/Semantic_Search_Engine.git
+git clone https://github.com/sidda19/Semantic_Search_Engine.git
 cd Semantic_Search_Engine
 pip install -r requirments.txt
 ```
