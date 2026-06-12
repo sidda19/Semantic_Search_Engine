@@ -105,8 +105,6 @@ A Gradio-based web application was developed to provide an interactive interface
 
 ## Demo
 
-![Gradio Demo](gradio_demo.png)
-
 ---
 
 ## Repository Structure
