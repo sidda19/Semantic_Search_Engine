@@ -112,9 +112,9 @@ A Gradio-based web application was developed to provide an interactive interface
 ## Repository Structure
 
 ```text
-semantic-search-engine/
+Semantic_Search_Engine/
 │
-├── Semantic_Search_Engine.ipynb    # Complete implementation notebook
+├── Search_Engine.ipynb    # Complete implementation notebook
 ├── requirments.txt                 # Required Python packages
 ├── README.md                       # Project documentation
 ├── project_proposal.pdf            # Initial project proposal
@@ -130,8 +130,8 @@ semantic-search-engine/
 Clone the repository:
 
 ```bash
-git clone https://github.com/sidda_19/semantic-search-engine.git
-cd semantic-search-engine
+git clone https://github.com/sidda_19/Semantic_Search_Engine.git
+cd Semantic_Search_Engine
 pip install -r requirments.txt
 ```
 
