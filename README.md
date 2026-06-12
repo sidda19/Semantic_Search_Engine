@@ -164,7 +164,7 @@ This project was developed as a group academic project on semantic document retr
 
 ### Team Members
 
-- Sidda Divya (GitHub: `sidda_19`)
+- Sidda Divya (GitHub: `sidda19`)
 - Manemoni Sumanjali
 - Ganesh
 - Divyam Sahu
