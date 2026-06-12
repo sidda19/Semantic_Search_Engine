@@ -1,0 +1,15 @@
+gensim
+faiss-cpu
+sentence-transformers
+datasets
+gradio
+nltk
+tqdm
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+torch
+transformers
+huggingface-hub
